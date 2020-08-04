@@ -1,0 +1,14 @@
+{
+  "name": "empty-keystone-project",
+  "author": "",
+  "description": "",
+  "license": "ISC",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "keystone-ssg",
+    "dev": "keystone-ssg --dev"
+  },
+  "dependencies": {
+    "keystone-ssg": "^1.4.6"
+  }
+}
