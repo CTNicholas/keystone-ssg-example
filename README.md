@@ -1,2 +1,2 @@
-# keystone-ssg-example
+# Keystone starter template
 [Keystone's](https://github.com/CTNicholas/keystone-ssg#readme) default site template, created upon running `npm install keystone-ssg`.
